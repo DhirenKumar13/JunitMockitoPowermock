@@ -1,9 +1,11 @@
-package org.doInjava.data.api;
+package org.doInjava.mockito;
 
 import static org.junit.Assert.*;
 
 import java.util.List;
 
+import org.doInjava.data.api.TodoService;
+import org.doInjava.data.api.TodoServiceStub;
 import org.doInjava.data.business.TodoBusinessImpl;
 import org.junit.Test;
 

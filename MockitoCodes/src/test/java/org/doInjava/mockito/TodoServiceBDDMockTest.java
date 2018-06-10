@@ -1,4 +1,4 @@
-package org.doInjava.data.api;
+package org.doInjava.mockito;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertEquals;
@@ -11,6 +11,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import org.doInjava.data.api.TodoService;
 import org.doInjava.data.business.TodoBusinessImpl;
 import org.junit.Before;
 import org.junit.Test;
