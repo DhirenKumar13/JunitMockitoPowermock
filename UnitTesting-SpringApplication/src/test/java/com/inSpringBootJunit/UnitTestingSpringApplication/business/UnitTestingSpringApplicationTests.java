@@ -1,4 +1,4 @@
-package com.inSpringBootJunit.UnitTestingSpringApplication;
+package com.inSpringBootJunit.UnitTestingSpringApplication.business;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
